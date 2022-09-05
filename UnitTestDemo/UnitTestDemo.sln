@@ -5,11 +5,16 @@ VisualStudioVersion = 17.3.32804.467
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnitTestDemo.MSTest", "UnitTestDemo.MSTest\UnitTestDemo.MSTest.csproj", "{F03735A3-5EDA-4BC9-8177-12365064CB29}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestDemo.NUnit", "UnitTestDemo.NUnit\UnitTestDemo.NUnit.csproj", "{DB9DD3B5-D6E9-46AC-9498-92F791532788}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnitTestDemo.NUnit", "UnitTestDemo.NUnit\UnitTestDemo.NUnit.csproj", "{DB9DD3B5-D6E9-46AC-9498-92F791532788}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestDemo.XUnit", "UnitTestDemo.XUnit\UnitTestDemo.XUnit.csproj", "{ED833995-7195-4248-A620-0D70F25F0047}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnitTestDemo.XUnit", "UnitTestDemo.XUnit\UnitTestDemo.XUnit.csproj", "{ED833995-7195-4248-A620-0D70F25F0047}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestDemo", "UnitTestDemo\UnitTestDemo.csproj", "{71FCEE5A-7830-46D1-BB4C-70370AEAE443}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnitTestDemo", "UnitTestDemo\UnitTestDemo.csproj", "{71FCEE5A-7830-46D1-BB4C-70370AEAE443}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F1D7236C-E40B-42B7-AA55-818C8A630969}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
